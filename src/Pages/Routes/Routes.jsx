@@ -5,7 +5,7 @@ import Error from "../Error/Error";
 
 function RoutesPage() {
 
-  const URL = `https://sahaj-banking.herokuapp.com`;
+  const URL = `https://banking-utilities.herokuapp.com`;
 
   return (
     <>

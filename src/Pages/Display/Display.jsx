@@ -84,7 +84,7 @@ const Display = ({ URL }) => {
       ) : null}
       <div className='App'>
         <header className='App-header'>
-          <h1>SAHAJ BANKING</h1>
+          <h1>BANKING</h1>
           <form
             onSubmit={(e) => {
               handelSubmit(e);
